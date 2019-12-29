@@ -1,1 +1,2 @@
 # Game_Journey
+Journey is a 2d dungeon crawl game. Player is able to visit verious dungeons and fignt monsters that give chase when player is with range. Player is able to cut frees and break stones which adds to inventory. These resources may be used to buy shuriken at certain places on the map. The player can transport to places there a spceial weapon can reach to skip or avoid enemies. Health and weapon crates are found on the map aswell.
